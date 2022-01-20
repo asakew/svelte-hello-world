@@ -1,5 +1,5 @@
 <script>
-  let siteName = 'app.uz'
+  let siteName = 'app.uz';
 	let src = '/tutorial/image.gif';
 </script>
 
